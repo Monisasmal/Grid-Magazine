@@ -16,3 +16,31 @@ Magazine-style article design
 Works across desktop, tablet, and mobile
 
 Minimal, distraction-free UI
+
+## 🛠️ Tech Stack
+
+HTML5 for structure
+
+CSS3 (Grid, Flexbox, Media Queries) for styling and layout
+
+Deployed with GitHub Pages
+
+## 🚀 Installation (Developer Setup)
+
+**1. Clone the repository**
+
+git clone <your-repo-url>
+
+cd Grid-Magazine
+
+**Open the project locally**
+
+Simply open index.html in your browser.
+
+## 📂 Project Structure 
+
+├─ index.html
+├─ style.css
+└─ README.md
+
+
