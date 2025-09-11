@@ -40,7 +40,20 @@ Simply open index.html in your browser.
 ## 📂 Project Structure 
 
 ├─ index.html
+
 ├─ style.css
+
 └─ README.md
+
+## Screenshot
+
+<img width="1366" height="728" alt="image" src="https://github.com/user-attachments/assets/895fda30-eb3e-4ab3-8e6f-7c6008466cc1" />
+<img width="1366" height="728" alt="image" src="https://github.com/user-attachments/assets/5bcbde2b-7c91-4071-8943-88b84aa0362f" />
+<img width="1349" height="724" alt="image" src="https://github.com/user-attachments/assets/0aeafdeb-4470-4a38-b694-005d4eb0c763" />
+<img width="1366" height="724" alt="image" src="https://github.com/user-attachments/assets/b98c16a4-3e36-4b3b-838d-f90ebc7294ac" />
+
+
+
+
 
 
