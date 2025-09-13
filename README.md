@@ -53,7 +53,19 @@ Simply open index.html in your browser.
 <img width="1366" height="724" alt="image" src="https://github.com/user-attachments/assets/b98c16a4-3e36-4b3b-838d-f90ebc7294ac" />
 
 
+## 🙋‍♀️ Author
 
+Manaswini Sasmal
+
+📲 - 6370094643
+ 
+👩‍💻 Frontend Developer | React Enthusiast
+
+🔗 Portfolio - https://manaswini-portfolio.vercel.app/
+
+📧 manaswinisasmal5597@gmail.com
+
+🔗 LinkedIn - https://www.linkedin.com/in/manaswini-sasmal-b77a21162/
 
 
 
